@@ -1,0 +1,7 @@
+Hello how are you?
+Append operation taking place.First line 
+second line 
+Third line 
+Append operation taking place.First line 
+second line 
+Third line 
